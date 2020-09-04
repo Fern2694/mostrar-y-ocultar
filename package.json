@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/paper-button": "3.0.1",
+    "@polymer/paper-card": "^3.0.1",
+    "lit-element": "2.4.0"
+  }
+}
